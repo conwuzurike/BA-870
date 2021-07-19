@@ -1,0 +1,158 @@
+gic_sub_industry_name,gic_sub_industry
+Oil & Gas Drilling,10101010
+Oil & Gas Equipment & Services,10101020
+Integrated Oil & Gas,10102010
+Oil & Gas Exploration & Production,10102020
+Oil & Gas Refining & Marketing,10102030
+Oil & Gas Storage & Transportation,10102040
+Coal & Consumable Fuels,10102050
+Commodity Chemicals,15101010
+Diversified Chemicals,15101020
+Fertilizers & Agricultural Chemicals,15101030
+Industrial Gases,15101040
+Specialty Chemicals,15101050
+Construction Materials,15102010
+Metal & Glass Containers,15103010
+Paper Packaging,15103020
+Aluminum,15104010
+Diversified Metals & Mining,15104020
+Copper,15104025
+Gold,15104030
+Precious Metals & Minerals,15104040
+Silver,15104045
+Steel,15104050
+Forest Products,15105010
+Paper Products,15105020
+Aerospace & Defense,20101010
+Building Products,20102010
+Construction & Engineering,20103010
+Electrical Components & Equipment,20104010
+Heavy Electrical Equipment,20104020
+Industrial Conglomerates,20105010
+Construction Machinery & Heavy Trucks,20106010
+Agricultural & Farm Machinery,20106015
+Industrial Machinery,20106020
+Trading Companies & Distributors,20107010
+Commercial Printing,20201010
+Environmental & Facilities Services,20201050
+Office Services & Supplies,20201060
+Diversified Support Services,20201070
+Security & Alarm Services,20201080
+Human Resource & Employment Services,20202010
+Research & Consulting Services,20202020
+Air Freight & Logistics,20301010
+Airlines,20302010
+Marine,20303010
+Railroads,20304010
+Trucking,20304020
+Airport Services,20305010
+Highways & Railtracks,20305020
+Marine Ports & Services,20305030
+Auto Parts & Equipment,25101010
+Tires & Rubber,25101020
+Automobile Manufacturers,25102010
+Motorcycle Manufacturers,25102020
+Consumer Electronics,25201010
+Home Furnishings,25201020
+Homebuilding,25201030
+Household Appliances,25201040
+Housewares & Specialties,25201050
+Leisure Products,25202010
+"Apparel, Accessories & Luxury Goods",25203010
+Footwear,25203020
+Textiles,25203030
+Casinos & Gaming,25301010
+"Hotels, Resorts & Cruise Lines",25301020
+Leisure Facilities,25301030
+Restaurants,25301040
+Education Services,25302010
+Specialized Consumer Services,25302020
+Advertising,25401010
+Broadcasting,25401020
+Cable & Satellite,25401025
+Movies & Entertainment,25401030
+Publishing,25401040
+Distributors,25501010
+Internet & Direct Marketing Retail,25502020
+Department Stores,25503010
+General Merchandise Stores,25503020
+Apparel Retail,25504010
+Computer & Electronics Retail,25504020
+Home Improvement Retail,25504030
+Specialty Stores,25504040
+Automotive Retail,25504050
+Homefurnishing Retail,25504060
+Drug Retail,30101010
+Food Distributors,30101020
+Food Retail,30101030
+Hypermarkets & Super Centers,30101040
+Brewers,30201010
+Distillers & Vintners,30201020
+Soft Drinks,30201030
+Agricultural Products,30202010
+Packaged Foods & Meats,30202030
+Tobacco,30203010
+Household Products,30301010
+Personal Products,30302010
+Health Care Equipment,35101010
+Health Care Supplies,35101020
+Health Care Distributors,35102010
+Health Care  Services,35102015
+Health Care Facilities,35102020
+Managed Health Care,35102030
+Health Care Technology,35103010
+Biotechnology,35201010
+Pharmaceuticals,35202010
+Life Sciences Tools & Services,35203010
+Diversified Banks,40101010
+Regional Banks,40101015
+Thrifts & Mortgage Finance,40102010
+Other Diversified Financial Services,40201020
+Multi-Sector Holdings,40201030
+Specialized Finance,40201040
+Consumer Finance,40202010
+Asset Management & Custody Banks,40203010
+Investment Banking & Brokerage,40203020
+Diversified Capital Markets,40203030
+Financial Exchanges & Data,40203040
+Mortgage REITs,40204010
+Insurance Brokers,40301010
+Life & Health Insurance,40301020
+Multi-line Insurance,40301030
+Property & Casualty Insurance,40301040
+Reinsurance,40301050
+Internet Software & Services,45101010
+IT Consulting & Other Services,45102010
+Data Processing & Outsourced Services,45102020
+Application Software,45103010
+Systems Software,45103020
+Home Entertainment Software,45103030
+Communications Equipment,45201020
+"Technology Hardware, Storage & Peripherals",45202030
+Electronic Equipment & Instruments ,45203010
+Electronic Components,45203015
+Electronic Manufacturing Services,45203020
+Technology Distributors,45203030
+Semiconductor Equipment ,45301010
+Semiconductors,45301020
+Alternative Carriers,50101010
+Integrated Telecommunication Services,50101020
+Wireless Telecommunication Services,50102010
+Electric Utilities,55101010
+Gas Utilities,55102010
+Multi-Utilities,55103010
+Water Utilities,55104010
+Independent Power Producers & Energy Traders,55105010
+Renewable Electricity ,55105020
+Diversified REITs,60101010
+Industrial REITs,60101020
+Hotel & Resort REITs ,60101030
+Office REITs ,60101040
+Health Care REITs ,60101050
+Residential REITs,60101060
+Retail REITs,60101070
+Specialized REITs ,60101080
+Diversified Real Estate Activities ,60102010
+Real Estate Operating Companies,60102020
+Real Estate Development ,60102030
+Real Estate Services ,60102040
